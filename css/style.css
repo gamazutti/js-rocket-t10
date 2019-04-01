@@ -1,0 +1,22 @@
+body{
+
+background: grey;
+
+}
+
+.burgerIcon{
+
+width: 100px;
+height: 100px;
+background-color: green;
+transition: background-color 1s;
+
+
+}
+
+.burgerIcon.red{
+
+background-color:red;
+
+
+}
